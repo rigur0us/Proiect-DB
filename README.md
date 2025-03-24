@@ -1,1 +1,1 @@
-# Proiect-DB
+Am creat o bază de date simpla cu relatii de tip 1 la n si n la 1. Aceasta baza de date retine informatii despre jucatorii de sah internationali, competitiile unde au participat, istoricul victoriilor si al invingerilor, precum si progresul acestora.
